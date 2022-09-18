@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript and Html,css
 - 📫 How to reach me:ozkanndemir2009@gmail.com
 - 📫 LinkedIn --> https://www.linkedin.com/in/%C3%B6zkan-demi%CC%87r-/
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
 
