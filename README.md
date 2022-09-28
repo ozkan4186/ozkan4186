@@ -4,9 +4,9 @@
 - :seedling: I’m currently learning fronted end backend ...
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon: Ask me about Html,CSS and JavaScript
-- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/f-cansu-%C3%B6zta%C5%9F-9545a3243//) ||
-ozkandemir2009@gmial.com
-- ![](https://komarev.com/ghpvc/?username=ozkan4186)
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6zkan-demi%CC%87r-/) ||ozkandemir2009@gmial.
+com
+- ![](https://komarev.com/ghpvc/?username=https://github.com/ozkan4186)
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cansuoztas&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## Languages & Tools :hammer_and_wrench:
@@ -66,5 +66,3 @@ count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=cansuoztas&theme=flag-india&show_icons=true">
 </div>
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-
