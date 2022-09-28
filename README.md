@@ -1,14 +1,13 @@
-
 ### Hi, I'm Özkan :wave:
 - :telescope: I’m currently working on Html,JavaScript,CSS,Sass,Bootstrap,Computal Thinking...
 - :seedling: I’m currently learning fronted end backend ...
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon: Ask me about Html,CSS and JavaScript
-- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6zkan-demi%CC%87r-/) ||ozkandemir2009@gmial.
-com
-- ![](https://komarev.com/ghpvc/?username=https://github.com/ozkan4186)
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%B6zkan-demi%CC%87r-/) ||
+ozkanndemir2009@gmail.com
+- ![](https://komarev.com/ghpvc/?username=ozkan4186&blue)
 ## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cansuoztas&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ozkan4186&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## Languages & Tools :hammer_and_wrench:
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -18,8 +17,7 @@ com
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
             width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.
-svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -49,20 +47,17 @@ svg"
         <tr>
             <td align="center" style="padding=0;width=50%;">
                 <img align="center" style="padding=0;"
-                    src="https://github-readme-stats.vercel.app/api/?username=cansuoztas&show_icons=true&
-title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&
-hide_title=true&count_private=true" />
+                    src="https://github-readme-stats.vercel.app/api/?username=ozkan4186&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
             </td>
             <td align="center" style="padding=0;width=50%;">
                 <img align="center" style="padding=0;"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuoztas&show_icons=true&
-title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&
-count_private=true" />
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozkan4186&show_icons=true&title_color=7159c1&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=7159c1&count_private=true" />
             </td>
         </tr>
     </table>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cansuoztas&theme=flag-india&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=ozkan4186&theme=flag-india&show_icons=true">
 </div>
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />
