@@ -61,6 +61,8 @@ ozkanndemir2009@gmail.com
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 
