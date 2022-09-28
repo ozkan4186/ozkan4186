@@ -60,4 +60,5 @@ ozkanndemir2009@gmail.com
     <img src="https://github-readme-stats.vercel.app/api?username=ozkan4186&theme=flag-india&show_icons=true">
 </div>
 ![](https://github.com/ozkan4186/ozkan4186/blob/main/dino.gif)
+https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />
