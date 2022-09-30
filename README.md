@@ -41,7 +41,7 @@ ozkanndemir2009@gmail.com
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"
             alt="vscode" /></a>
 </p>
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="320" />
 ## Github Stats :computer:
 <div align="center">
     <table>
