@@ -63,4 +63,5 @@ ozkanndemir2009@gmail.com
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+<img src="https://activity-graph.herokuapp.com/graph?username=ozkan4186&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
