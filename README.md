@@ -63,7 +63,7 @@ ozkanndemir2009@gmail.com
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/viewuid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 <img src="https://activity-graph.herokuapp.com/graph?username=ozkan4186&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
